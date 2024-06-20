@@ -1,6 +1,6 @@
 ## 👁‍🗨 Instagram followers scraper
 
-#### Python script to extract followers/unfollowers from Instagram users.
+#### Python script to extract followers/followings from Instagram users.
 
 - Provide your username/password and the username of the target profile.
 - The profile must be public, or if it is private, you must follow it.
